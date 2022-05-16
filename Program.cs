@@ -121,10 +121,10 @@ namespace Wine_House
                     case "5":
 
                         Console.Clear();
-                        Console.WriteLine("Desenvolvedores");
+                        Console.WriteLine("Desenvolvedor");
                         Console.WriteLine("");
-                        Console.WriteLine("Lucas Menchon(github.com/lucasmenchon - site: lucasmenchon.github.io");
-                        Console.WriteLine("Hisllaylla Kézia");
+                        Console.WriteLine("Lucas Menchon(github.com/lucasmenchon - site: https://tilucas.com");
+                        Console.WriteLine("");
                         Console.ReadKey();
 
                         Console.Clear();
